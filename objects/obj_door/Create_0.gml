@@ -1,0 +1,3 @@
+targetRoom = "";
+targetX = "";
+targetY = "";
