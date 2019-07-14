@@ -1,0 +1,1 @@
+dist_traveled = 0;
