@@ -1,6 +1,6 @@
 sticky = true;
 jmpspeed = 3;
-mvspeed = 3;
+mvspeed = 2;
 strong = false;
 color = "pink";
 image_xscale = 1;

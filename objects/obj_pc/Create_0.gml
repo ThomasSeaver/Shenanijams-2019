@@ -1,6 +1,9 @@
 jumped = false;
-mvspeed = 3;
+mvspeed = 2;
 jmpspeed = 3;
 sticky = false;
 strong = false;
 color = "brown";
+papers_room = 0;
+global.papers = 0;
+global.deaths = 0;

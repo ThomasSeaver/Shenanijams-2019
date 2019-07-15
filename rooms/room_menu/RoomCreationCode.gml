@@ -1,0 +1,1 @@
+audio_play_sound(cruising_for_goblins, 1, true);

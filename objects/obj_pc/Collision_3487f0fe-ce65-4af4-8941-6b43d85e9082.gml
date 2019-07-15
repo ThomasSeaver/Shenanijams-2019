@@ -1,7 +1,7 @@
 sticky = false;
-jmpspeed = 6;
-mvspeed = 3;
-strong = true;
+jmpspeed = 4.5;
+mvspeed = 2;
+strong = false;
 color = "green";
 image_xscale = 1;
 image_yscale = 1;

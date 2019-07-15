@@ -1,0 +1,1 @@
+targetRoom = "room_cutscene_1";

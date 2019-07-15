@@ -1,5 +1,4 @@
 if (dist_traveled == 0) {
-	show_debug_message(move_speed);
 	move_speed += 4;
 }
 
