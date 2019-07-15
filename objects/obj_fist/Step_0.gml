@@ -4,6 +4,9 @@ if (dist_traveled == 0) {
 
 
 if (dist_traveled < 12) {
+	if (!(image_angle <= 360 and image_angle >= 0)) {
+		image_angle = 0;
+	}
 	var frame_speed = move_speed * delta_time/1000000;
 	var xt = frame_speed * radtodeg(cos(degtorad(image_angle)));
 	var yt = -1 * frame_speed * radtodeg(sin(degtorad(image_angle)));

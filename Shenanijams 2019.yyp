@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "5d005a7c-ba43-43a6-8239-fecd4968594b",
+            "Value": {
+                "id": "d719e80f-e619-490a-be48-74f027b1df71",
+                "resourcePath": "sprites\\spr_cutscene_6_2\\spr_cutscene_6_2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6113a663-171b-4afe-ae41-318f3f0e5b11",
             "Value": {
                 "id": "0b5b37fd-1dc9-4e1a-b553-33b34ad10d3e",
